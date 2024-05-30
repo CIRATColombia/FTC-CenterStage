@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="https://librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="46.00000054mm" height="102.63201654mm" viewBox="0 0 46.00000054 102.63201654">
     <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
-        <path d="M0.00000014,102.63201654 L46.00000054,55 L46.00000054,0 L36.00000054,0 L36.00000054,42 L0,62.78461 L0.00000014,102.63201654 Z "/>
+        <path d="M0.00000014,102.63201654 L46.00000054,55 L46.00000054,0 L36.00000054,0 L36.00000054,42 L0,62.78461 L0.00000014,102.63201654 "/>
     </g>
     <g lc:layername="ANNOTATION_LINES" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1"/>
     <g lc:layername="ANNOTATION_TEXT" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1"/>
